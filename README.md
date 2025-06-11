@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Jai;Full+Stack+Developer;Tech+Explorer;Open+Source+Learner&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Jai;Full+Stack+Developer;Tech+Explorer;Open+Source+Learner&center=true&size=30&color=FF4C4C&font=Courier+New">
 </h1>
+
+
 
 ### 👋 Hello there, I'm Jai — a passionate Full Stack Developer focused on crafting responsive, scalable, and user-centric applications.
 
@@ -48,4 +50,3 @@
 ### 📬 Let's Connect
 📎 [LinkedIn →](https://www.linkedin.com/in/jaikarthikeshwar-u-731b32291)  
 💬 Feel free to reach out for collaborations, frontend/backend projects, or just to connect!
-
